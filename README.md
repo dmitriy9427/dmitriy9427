@@ -15,10 +15,10 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<img src="https://www.codewars.com/users/dmitriy9427/badges/large" alt="codewars" />
+<a><img src="https://www.codewars.com/users/dmitriy9427/badges/large" alt="codewars" /></a>
 
 ## Как связаться со мной:
 
 <div>
-<a><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/telegram.svg" alt="Мой Телеграм" width="21px" height="21px"></a> Доступен в Telegram: <a href="https://t.me/drive28" title="Телеграм" target="_blanck">https://t.me/drive28</a><br>
+<a><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/telegram.svg" alt="Мой Телеграм" width="21px" height="21px"></a> Доступен в Telegram: <a href="https://t.me/drive28" title="Телеграм" target="_blanck">https://t.me/ryabov_29</a><br>
 </div>
