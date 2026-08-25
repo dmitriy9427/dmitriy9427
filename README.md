@@ -35,10 +35,6 @@
 
 <a><img src="https://www.codewars.com/users/dmitriy9427/badges/large" alt="codewars" /></a>
 
-<a><img src="https://github-readme-stats.vercel.app/api?username=dmitriy9427&theme=blue-green" alt="codewars" /></a>
-
-![dfdfsdf](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitriy9427&theme=blue-green)
-
 ## Как связаться со мной:
 
 <div >
