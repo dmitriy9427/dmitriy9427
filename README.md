@@ -59,7 +59,13 @@ Frontend-разработчик. Делаю сайты университето�
       <sub>Vite · React · Astro · TypeScript</sub><br>
       <a href="https://dmitriy9427.github.io/frontend-kit/"><b>Демо</b></a> · <a href="https://github.com/dmitriy9427/frontend-kit">Код</a>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <a href="https://dmitriy9427.github.io/resonance/"><img src="https://raw.githubusercontent.com/dmitriy9427/resonance/main/docs/screenshots/terrain.webp" alt="Резонанс"></a>
+      <h3>🔊 Резонанс</h3>
+      Музыкальный визуализатор: три 3D-сцены на шейдерах слушают музыку, демо-трек синтезируется в браузере.<br>
+      <sub>React Three Fiber · GLSL · Web Audio · TypeScript</sub><br>
+      <a href="https://dmitriy9427.github.io/resonance/"><b>Демо</b></a> · <a href="https://github.com/dmitriy9427/resonance">Код</a>
+    </td>
   </tr>
 </table>
 
