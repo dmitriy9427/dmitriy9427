@@ -28,14 +28,21 @@ Frontend-разработчик. Делаю сайты университето�
       <a href="https://dmitriy9427.github.io/lepestok/"><b>Демо</b></a> · <a href="https://github.com/dmitriy9427/lepestok">Код</a>
     </td>
     <td width="50%" valign="top">
+      <a href="https://dmitriy9427.github.io/tropa/"><img src="https://raw.githubusercontent.com/dmitriy9427/tropa/main/docs/screenshots/day.webp" alt="Тропа"></a>
+      <h3>🧭 Тропа</h3>
+      Планировщик путешествий: места по дням с перетаскиванием, карта маршрута, погода, ссылка «поделиться» без сервера.<br>
+      <sub>Next.js · TypeScript · Zustand · TanStack Query · MapLibre</sub><br>
+      <a href="https://dmitriy9427.github.io/tropa/"><b>Демо</b></a> · <a href="https://github.com/dmitriy9427/tropa">Код</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <a href="https://dmitriy9427.github.io/zhk-sosny/"><img src="https://raw.githubusercontent.com/dmitriy9427/zhk-sosny/main/docs/screenshots/sosny-home.webp" alt="Квартал «Сосны»"></a>
       <h3>🌲 Квартал «Сосны»</h3>
       Сайт ЖК: 3D-квартал на three.js, каталог из 270 квартир с шахматкой, ипотечный калькулятор.<br>
       <sub>Astro · TypeScript · three.js · GSAP</sub><br>
       <a href="https://dmitriy9427.github.io/zhk-sosny/"><b>Демо</b></a> · <a href="https://github.com/dmitriy9427/zhk-sosny">Код</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://dmitriy9427.github.io/space-agency/"><img src="https://raw.githubusercontent.com/dmitriy9427/space-agency/main/docs/screenshots/orbita-home.webp" alt="ОРБИТА"></a>
       <h3>🚀 ОРБИТА</h3>
@@ -43,6 +50,8 @@ Frontend-разработчик. Делаю сайты университето�
       <sub>GSAP · three.js · GLSL · Vite</sub><br>
       <a href="https://dmitriy9427.github.io/space-agency/"><b>Демо</b></a> · <a href="https://github.com/dmitriy9427/space-agency">Код</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://dmitriy9427.github.io/frontend-kit/"><img src="https://raw.githubusercontent.com/dmitriy9427/frontend-kit/main/docs/screenshots/kit-drum.webp" alt="frontend-kit"></a>
       <h3>🧰 frontend-kit</h3>
@@ -50,6 +59,7 @@ Frontend-разработчик. Делаю сайты университето�
       <sub>Vite · React · Astro · TypeScript</sub><br>
       <a href="https://dmitriy9427.github.io/frontend-kit/"><b>Демо</b></a> · <a href="https://github.com/dmitriy9427/frontend-kit">Код</a>
     </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
