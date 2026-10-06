@@ -1,43 +1,74 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+<a href="https://dmitriy9427.github.io/resume/"><img src="assets/header.svg" alt="Дмитрий Рябов — frontend-разработчик" width="100%"></a>
 
-# Всем привет, меня зовут Дмитрий! 👋
+<p align="center">
+  <a href="https://dmitriy9427.github.io/resume/"><b>Сайт-резюме</b></a> ·
+  <a href="https://t.me/ryabov_29">Telegram @ryabov_29</a>
+</p>
 
-## Обо мне:
+## 👋 Обо мне
 
-Я front-end разработчик, делаю все возможное, чтобы достичь высокого уровня мастерства, и стремлюсь стать частью команды, которая разрабатывает значимые веб-проекты. Мне нравится создавать что-то новое, строить это поэтапно и видеть результат.
+Frontend-разработчик в веб-студии **Paraweb**: делаю сайты университетов и медицинских центров —
+от адаптивной вёрстки и UI-китов до анимаций на GSAP и сцен на Three.js.
+Люблю, когда интерфейс не только красивый, но и надёжный: доступность, производительность,
+тесты и документация — часть работы.
 
-## Мой технологический стек:
+- 🔭 Сейчас: сайт Югорского госуниверситета — UI-кит на Astro + React со Storybook
+- 🌱 Изучаю: шейдеры (GLSL) и 3D в Blender
+- ⚡ Пет-проекты — ниже, у каждого есть живое демо
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![saas](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Pretier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+## 🚀 Пет-проекты
 
-<a><img src="https://www.codewars.com/users/dmitriy9427/badges/large" alt="codewars" /></a>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://dmitriy9427.github.io/lepestok/"><img src="https://raw.githubusercontent.com/dmitriy9427/lepestok/main/docs/screenshots/lepestok-home.webp" alt="Лепесток"></a>
+      <h3>🌸 Лепесток</h3>
+      Цветочный магазин: видео сквозь буквы, шейдерные переходы, конструктор букета, тёмная тема.<br>
+      <sub>React 19 · TypeScript · GSAP · WebGL</sub><br>
+      <a href="https://dmitriy9427.github.io/lepestok/"><b>Демо</b></a> · <a href="https://github.com/dmitriy9427/lepestok">Код</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://dmitriy9427.github.io/zhk-sosny/"><img src="https://raw.githubusercontent.com/dmitriy9427/zhk-sosny/main/docs/screenshots/sosny-home.webp" alt="Квартал «Сосны»"></a>
+      <h3>🌲 Квартал «Сосны»</h3>
+      Сайт ЖК: 3D-квартал на three.js, каталог из 270 квартир с шахматкой, ипотечный калькулятор.<br>
+      <sub>Astro · TypeScript · three.js · GSAP</sub><br>
+      <a href="https://dmitriy9427.github.io/zhk-sosny/"><b>Демо</b></a> · <a href="https://github.com/dmitriy9427/zhk-sosny">Код</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://dmitriy9427.github.io/space-agency/"><img src="https://raw.githubusercontent.com/dmitriy9427/space-agency/main/docs/screenshots/orbita-home.webp" alt="ОРБИТА"></a>
+      <h3>🚀 ОРБИТА</h3>
+      Космическое агентство: 3D-ракета по скроллу, все 16 плагинов GSAP, вода на GPU.<br>
+      <sub>GSAP · three.js · GLSL · Vite</sub><br>
+      <a href="https://dmitriy9427.github.io/space-agency/"><b>Демо</b></a> · <a href="https://github.com/dmitriy9427/space-agency">Код</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://dmitriy9427.github.io/frontend-kit/"><img src="https://raw.githubusercontent.com/dmitriy9427/frontend-kit/main/docs/screenshots/kit-drum.webp" alt="frontend-kit"></a>
+      <h3>🧰 frontend-kit</h3>
+      Мой шаблон для старта проектов: 36 модулей, формы, i18n, dev-панель, стартеры vanilla / React / Astro.<br>
+      <sub>Vite · React · Astro · TypeScript</sub><br>
+      <a href="https://dmitriy9427.github.io/frontend-kit/"><b>Демо</b></a> · <a href="https://github.com/dmitriy9427/frontend-kit">Код</a>
+    </td>
+  </tr>
+</table>
 
-## Как связаться со мной:
+<p align="center"><a href="https://github.com/dmitriy9427/resume">Исходники сайта-резюме</a> — Astro, два языка, WebGL-фон</p>
 
-<div >
-<a align="center"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/telegram.svg" alt="Мой Телеграм" width="21px" height="21px"></a>  
-<a vertical="center" href="https://t.me/ryabov_29" title="Телеграм" target="_blanck">Мой tg: @ryabov_29</a><br>
-</div>
+## 🛠 Стек
+
+| | |
+| --- | --- |
+| **Основное** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=f7df1e) ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb) ![Astro](https://img.shields.io/badge/Astro-bc52ee?style=flat-square&logo=astro&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Redux](https://img.shields.io/badge/Redux_Toolkit-593d88?style=flat-square&logo=redux&logoColor=white) |
+| **Вёрстка** | ![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white) ![Sass](https://img.shields.io/badge/SCSS-cc6699?style=flat-square&logo=sass&logoColor=white) ![Pug](https://img.shields.io/badge/Pug-a86454?style=flat-square&logo=pug&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-0f172a?style=flat-square&logo=tailwindcss&logoColor=38bdf8) ![htmx](https://img.shields.io/badge/htmx-3366cc?style=flat-square&logo=htmx&logoColor=white) |
+| **Анимации и 3D** | ![GSAP](https://img.shields.io/badge/GSAP-0ae448?style=flat-square&logo=greensock&logoColor=black) ![three.js](https://img.shields.io/badge/three.js-000000?style=flat-square&logo=threedotjs&logoColor=white) ![GLSL](https://img.shields.io/badge/GLSL-5586a4?style=flat-square&logo=opengl&logoColor=white) ![Swiper](https://img.shields.io/badge/Swiper-6332f6?style=flat-square&logo=swiper&logoColor=white) |
+| **Сборка и качество** | ![Vite](https://img.shields.io/badge/Vite-646cff?style=flat-square&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-1c78c0?style=flat-square&logo=webpack&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-6e9f18?style=flat-square&logo=vitest&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2ead33?style=flat-square&logo=playwright&logoColor=white) ![Storybook](https://img.shields.io/badge/Storybook-ff4785?style=flat-square&logo=storybook&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4b32c3?style=flat-square&logo=eslint&logoColor=white) ![Git](https://img.shields.io/badge/Git-f05033?style=flat-square&logo=git&logoColor=white) |
+
+## 📫 Связаться
+
+<p>
+  <a href="https://t.me/ryabov_29"><img src="https://img.shields.io/badge/Telegram-@ryabov__29-26a5e4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://dmitriy9427.github.io/resume/"><img src="https://img.shields.io/badge/Резюме-сайт-7c3aed?style=for-the-badge&logo=astro&logoColor=white" alt="Сайт-резюме"></a>
+</p>
+
+<a href="https://www.codewars.com/users/dmitriy9427"><img src="https://www.codewars.com/users/dmitriy9427/badges/large" alt="Codewars"></a>

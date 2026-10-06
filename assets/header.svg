@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Дмитрий Рябов — frontend-разработчик">
+  <defs>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="60"/></filter>
+    <linearGradient id="name" x1="0" x2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.45" stop-color="#c4b5fd"/>
+      <stop offset="1" stop-color="#5eead4"/>
+    </linearGradient>
+    <clipPath id="round"><rect width="1200" height="320" rx="24"/></clipPath>
+    <style>
+      .name { font: 800 76px 'Segoe UI', system-ui, -apple-system, sans-serif; letter-spacing: -2px; }
+      .role { font: 500 22px ui-monospace, 'SF Mono', Menlo, Consolas, monospace; fill: #a5b4fc; letter-spacing: 1px; }
+      .tag { font: 500 15px ui-monospace, 'SF Mono', Menlo, Consolas, monospace; fill: #94a3b8; }
+      .cursor { animation: blink 1s steps(1) infinite; }
+      .fade { opacity: 0; animation: up 1s cubic-bezier(.2,.8,.2,1) forwards; }
+      .d1 { animation-delay: .1s } .d2 { animation-delay: .35s } .d3 { animation-delay: .6s }
+      @keyframes blink { 50% { opacity: 0 } }
+      @keyframes up { from { opacity: 0; transform: translateY(14px) } to { opacity: 1; transform: none } }
+    </style>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1200" height="320" fill="#07070d"/>
+    <!-- Северное сияние: размытые пятна медленно плывут (как фон на сайте-резюме) -->
+    <g filter="url(#blur)" opacity="0.85">
+      <circle r="170" fill="#7c3aed">
+        <animate attributeName="cx" values="820;980;860;820" dur="14s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="90;160;220;90" dur="14s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="150" fill="#0ea5e9">
+        <animate attributeName="cx" values="1050;900;1100;1050" dur="17s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="240;120;60;240" dur="17s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="130" fill="#14b8a6">
+        <animate attributeName="cx" values="700;760;640;700" dur="12s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="300;200;260;300" dur="12s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <!-- Тонкая сетка -->
+    <g stroke="#ffffff" stroke-opacity="0.04">
+      <path d="M0 80H1200M0 160H1200M0 240H1200"/>
+      <path d="M150 0V320M300 0V320M450 0V320M600 0V320M750 0V320M900 0V320M1050 0V320"/>
+    </g>
+    <g transform="translate(64 0)">
+      <text class="tag fade d1" x="0" y="78"><tspan fill="#34d399">●</tspan> открыт к проектам · Россия, удалённо</text>
+      <text class="name fade d2" x="0" y="168" fill="url(#name)">Дмитрий Рябов</text>
+      <text class="role fade d3" x="0" y="222">frontend-разработчик · React · Astro · WebGL<tspan class="cursor" fill="#5eead4">▍</tspan></text>
+    </g>
+  </g>
+</svg>
