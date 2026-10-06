@@ -67,6 +67,16 @@ Frontend-разработчик. Делаю сайты университето�
       <a href="https://dmitriy9427.github.io/resonance/"><b>Демо</b></a> · <a href="https://github.com/dmitriy9427/resonance">Код</a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://dmitriy9427.github.io/letuchka/"><img src="https://raw.githubusercontent.com/dmitriy9427/letuchka/main/docs/screenshots/discuss.webp" alt="Летучка"></a>
+      <h3>🗂 Летучка</h3>
+      Онлайн-ретро для команды: карточки, голоса, курсоры коллег и таймер в реальном времени.<br>
+      <sub>Nuxt · Vue 3 · Pinia · Supabase</sub><br>
+      <a href="https://dmitriy9427.github.io/letuchka/"><b>Демо</b></a> · <a href="https://github.com/dmitriy9427/letuchka">Код</a>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 <p align="center"><a href="https://github.com/dmitriy9427/resume">Исходники сайта-резюме</a> — Astro, два языка, WebGL-фон</p>
@@ -75,7 +85,7 @@ Frontend-разработчик. Делаю сайты университето�
 
 | | |
 | --- | --- |
-| **Основное** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=f7df1e) ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb) ![Astro](https://img.shields.io/badge/Astro-bc52ee?style=flat-square&logo=astro&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Redux](https://img.shields.io/badge/Redux_Toolkit-593d88?style=flat-square&logo=redux&logoColor=white) |
+| **Основное** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=f7df1e) ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb) ![Astro](https://img.shields.io/badge/Astro-bc52ee?style=flat-square&logo=astro&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Vue](https://img.shields.io/badge/Vue_3-35495e?style=flat-square&logo=vuedotjs&logoColor=4fc08d) ![Nuxt](https://img.shields.io/badge/Nuxt-00dc82?style=flat-square&logo=nuxtdotjs&logoColor=white) ![Redux](https://img.shields.io/badge/Redux_Toolkit-593d88?style=flat-square&logo=redux&logoColor=white) |
 | **Вёрстка** | ![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white) ![Sass](https://img.shields.io/badge/SCSS-cc6699?style=flat-square&logo=sass&logoColor=white) ![Pug](https://img.shields.io/badge/Pug-a86454?style=flat-square&logo=pug&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-0f172a?style=flat-square&logo=tailwindcss&logoColor=38bdf8) ![htmx](https://img.shields.io/badge/htmx-3366cc?style=flat-square&logo=htmx&logoColor=white) |
 | **Анимации и 3D** | ![GSAP](https://img.shields.io/badge/GSAP-0ae448?style=flat-square&logo=greensock&logoColor=black) ![three.js](https://img.shields.io/badge/three.js-000000?style=flat-square&logo=threedotjs&logoColor=white) ![GLSL](https://img.shields.io/badge/GLSL-5586a4?style=flat-square&logo=opengl&logoColor=white) ![Swiper](https://img.shields.io/badge/Swiper-6332f6?style=flat-square&logo=swiper&logoColor=white) |
 | **Сборка и качество** | ![Vite](https://img.shields.io/badge/Vite-646cff?style=flat-square&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-1c78c0?style=flat-square&logo=webpack&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-6e9f18?style=flat-square&logo=vitest&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2ead33?style=flat-square&logo=playwright&logoColor=white) ![Storybook](https://img.shields.io/badge/Storybook-ff4785?style=flat-square&logo=storybook&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4b32c3?style=flat-square&logo=eslint&logoColor=white) ![Git](https://img.shields.io/badge/Git-f05033?style=flat-square&logo=git&logoColor=white) |
