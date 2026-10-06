@@ -2,17 +2,17 @@
 
 <p align="center">
   <a href="https://dmitriy9427.github.io/resume/"><b>Сайт-резюме</b></a> ·
-  <a href="https://t.me/ryabov_29">Telegram @ryabov_29</a>
+  <a href="https://t.me/ryabov_29">Telegram @ryabov_29</a> ·
+  <a href="mailto:dimich.94@yandex.ru">dimich.94@yandex.ru</a>
 </p>
 
 ## 👋 Обо мне
 
-Frontend-разработчик в веб-студии **Paraweb**: делаю сайты университетов и медицинских центров —
-от адаптивной вёрстки и UI-китов до анимаций на GSAP и сцен на Three.js.
+Frontend-разработчик. Делаю сайты университетов и медицинских центров — от адаптивной
+вёрстки и UI-китов до анимаций на GSAP и сцен на Three.js.
 Люблю, когда интерфейс не только красивый, но и надёжный: доступность, производительность,
 тесты и документация — часть работы.
 
-- 🔭 Сейчас: сайт Югорского госуниверситета — UI-кит на Astro + React со Storybook
 - 🌱 Изучаю: шейдеры (GLSL) и 3D в Blender
 - ⚡ Пет-проекты — ниже, у каждого есть живое демо
 
@@ -68,6 +68,7 @@ Frontend-разработчик в веб-студии **Paraweb**: делаю �
 
 <p>
   <a href="https://t.me/ryabov_29"><img src="https://img.shields.io/badge/Telegram-@ryabov__29-26a5e4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="mailto:dimich.94@yandex.ru"><img src="https://img.shields.io/badge/Почта-dimich.94@yandex.ru-fc3f1d?style=for-the-badge&logo=maildotru&logoColor=white" alt="Почта"></a>
   <a href="https://dmitriy9427.github.io/resume/"><img src="https://img.shields.io/badge/Резюме-сайт-7c3aed?style=for-the-badge&logo=astro&logoColor=white" alt="Сайт-резюме"></a>
 </p>
 
