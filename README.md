@@ -75,7 +75,13 @@ Frontend-разработчик. Делаю сайты университето�
       <sub>Nuxt · Vue 3 · Pinia · Supabase</sub><br>
       <a href="https://dmitriy9427.github.io/letuchka/"><b>Демо</b></a> · <a href="https://github.com/dmitriy9427/letuchka">Код</a>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <a href="https://dmitriy9427.github.io/myata/"><img src="https://raw.githubusercontent.com/dmitriy9427/myata/main/docs/screenshots/light.webp" alt="Мята"></a>
+      <h3>🌿 Мята</h3>
+      Telegram Mini App для записи в студию: тема Telegram, родные кнопки, вибрация, записи в CloudStorage.<br>
+      <sub>React · TypeScript · Telegram Mini Apps · Zustand</sub><br>
+      <a href="https://dmitriy9427.github.io/myata/"><b>Демо</b></a> · <a href="https://github.com/dmitriy9427/myata">Код</a>
+    </td>
   </tr>
 </table>
 
