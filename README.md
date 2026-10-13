@@ -99,6 +99,16 @@ Frontend-разработчик. Делаю сайты университето�
       <a href="https://dmitriy9427.github.io/prilavok/"><b>Демо</b></a> · <a href="https://github.com/dmitriy9427/prilavok">Код</a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://dmitriy9427.github.io/opora/"><img src="https://raw.githubusercontent.com/dmitriy9427/opora/main/docs/screenshots/example.webp" alt="Опора"></a>
+      <h3>🧱 Опора</h3>
+      Библиотека доступных React-компонентов с нуля, без Radix: диалог, меню, селект, вкладки, тосты. Стили в CSS-слоях, пакет с типами и проверками.<br>
+      <sub>React · TypeScript · WAI-ARIA · Storybook</sub><br>
+      <a href="https://dmitriy9427.github.io/opora/"><b>Демо</b></a> · <a href="https://github.com/dmitriy9427/opora">Код</a>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 <p align="center"><a href="https://github.com/dmitriy9427/resume">Исходники сайта-резюме</a> — Astro, два языка, WebGL-фон</p>
