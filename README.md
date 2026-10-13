@@ -91,7 +91,13 @@ Frontend-разработчик. Делаю сайты университето�
       <sub>React Native · Expo · Reanimated · Zustand</sub><br>
       <a href="https://dmitriy9427.github.io/ritm/"><b>Демо</b></a> · <a href="https://github.com/dmitriy9427/ritm">Код</a>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <a href="https://dmitriy9427.github.io/prilavok/"><img src="https://raw.githubusercontent.com/dmitriy9427/prilavok/main/docs/screenshots/dashboard.webp" alt="Прилавок"></a>
+      <h3>🛒 Прилавок</h3>
+      Админка магазина с реальным временем: свой WebSocket-клиент (переподключение, heartbeat, докачка событий), серверная таблица, 10 000 строк с виртуализацией.<br>
+      <sub>React · WebSocket · TanStack Router / Query / Table · shadcn/ui</sub><br>
+      <a href="https://dmitriy9427.github.io/prilavok/"><b>Демо</b></a> · <a href="https://github.com/dmitriy9427/prilavok">Код</a>
+    </td>
   </tr>
 </table>
 
