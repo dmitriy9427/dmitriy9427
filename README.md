@@ -46,7 +46,7 @@ Frontend-разработчик. Делаю сайты университето�
     <td width="50%" valign="top">
       <a href="https://dmitriy9427.github.io/space-agency/"><img src="https://raw.githubusercontent.com/dmitriy9427/space-agency/main/docs/screenshots/orbita-home.webp" alt="ОРБИТА"></a>
       <h3>🚀 ОРБИТА</h3>
-      Космическое агентство: 3D-ракета по скроллу, все 16 плагинов GSAP, вода на GPU.<br>
+      Космическое агентство: 3D-ракета летит по траектории на скролле и возвращается по кнопке «Пуск», все 16 плагинов GSAP, шесть слайдеров без библиотек, вода на GPU.<br>
       <sub>GSAP · three.js · GLSL · Vite</sub><br>
       <a href="https://dmitriy9427.github.io/space-agency/"><b>Демо</b></a> · <a href="https://github.com/dmitriy9427/space-agency">Код</a>
     </td>
