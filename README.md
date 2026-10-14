@@ -107,7 +107,13 @@ Frontend-разработчик. Делаю сайты университето�
       <sub>React · TypeScript · WAI-ARIA · Storybook</sub><br>
       <a href="https://dmitriy9427.github.io/opora/"><b>Демо</b></a> · <a href="https://github.com/dmitriy9427/opora">Код</a>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <a href="https://dmitriy9427.github.io/saldo/"><img src="https://raw.githubusercontent.com/dmitriy9427/saldo/main/docs/screenshots/dashboard-dark.webp" alt="Сальдо"></a>
+      <h3>💰 Сальдо</h3>
+      Учёт личных финансов: RTK Query с тегами и оптимистичными обновлениями, удаление с отменой на listener middleware, импорт банковской выписки, архитектура FSD.<br>
+      <sub>React · Redux Toolkit · RTK Query · Feature-Sliced Design · Recharts</sub><br>
+      <a href="https://dmitriy9427.github.io/saldo/"><b>Демо</b></a> · <a href="https://github.com/dmitriy9427/saldo">Код</a>
+    </td>
   </tr>
 </table>
 
