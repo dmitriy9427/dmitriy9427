@@ -115,6 +115,16 @@ Frontend-разработчик. Делаю сайты университето�
       <a href="https://dmitriy9427.github.io/saldo/"><b>Демо</b></a> · <a href="https://github.com/dmitriy9427/saldo">Код</a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://dmitriy9427.github.io/propusk/"><img src="https://raw.githubusercontent.com/dmitriy9427/propusk/main/docs/screenshots/under-the-hood.webp" alt="Пропуск"></a>
+      <h3>🔐 Пропуск</h3>
+      Авторизация как в продукте: JWT + refresh-токен в HttpOnly-cookie с ротацией и обнаружением кражи, 2FA, passkeys, вход через провайдера по OAuth 2.0 + PKCE.<br>
+      <sub>React · TypeScript · Hono · WebAuthn · OAuth 2.0 / OIDC</sub><br>
+      <a href="https://dmitriy9427.github.io/propusk/"><b>Демо</b></a> · <a href="https://github.com/dmitriy9427/propusk">Код</a>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 <p align="center"><a href="https://github.com/dmitriy9427/resume">Исходники сайта-резюме</a> — Astro, два языка, WebGL-фон</p>
